@@ -10,8 +10,8 @@ function Exercise10() {
   return (
     <div>
       <h1>10. Calculate the sum of numbers in an array of numbers</h1>
-      <h2>Array: {numbers.join(', ')}</h2>
-      <h2>Sum: {sum}</h2>
+     Array: {numbers.join(', ')}
+      Sum: {sum}
     </div>
   );
 }

@@ -15,8 +15,8 @@ function Exercise13() {
   return (
     <div>
       <h1>13. Find the maximum number in an array of numbers</h1>
-      <h2>Array: {numbers.join(', ')}</h2>
-      <h2>Maximum Number: {maxNumber}</h2>
+     Array: {numbers.join(', ')}
+      Maximum Number: {maxNumber}
     </div>
   );
 }

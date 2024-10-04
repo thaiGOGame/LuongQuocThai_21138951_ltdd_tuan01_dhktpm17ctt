@@ -15,8 +15,8 @@ function Exercise12() {
   return (
     <div>
       <h1>12. Create a function that receives an array of numbers as argument and returns an array containing only the positive numbers</h1>
-      <h2>Original Array: {numbers.join(', ')}</h2>
-      <h2>Positive Numbers: {positiveNumbers.join(', ')}</h2>
+     Original Array: {numbers.join(', ')}
+      Positive Numbers: {positiveNumbers.join(', ')}
     </div>
   );
 }

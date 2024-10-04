@@ -13,8 +13,8 @@ function Exercise11() {
   return (
     <div>
       <h1>11. Calculate the average of the numbers in an array of numbers</h1>
-      <h2>Array: {numbers.join(', ')}</h2>
-      <h2>Average: {average}</h2>
+      Array: {numbers.join(', ')}
+      Average: {average}
     </div>
   );
 }

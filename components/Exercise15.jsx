@@ -15,7 +15,7 @@ function Exercise15() {
   return (
     <div>
       <h1>15. Create a function that will find the nth Fibonacci number using recursion</h1>
-      <h2>10th Fibonacci Number: {nthFibonacci}</h2>
+     10th Fibonacci Number: {nthFibonacci}
     </div>
   );
 }

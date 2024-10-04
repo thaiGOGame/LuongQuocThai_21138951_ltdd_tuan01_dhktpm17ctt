@@ -10,7 +10,7 @@ function Exercise6() {
   return (
     <div>
       <h1>6. Calculate 10!</h1>
-      <h2>{factorial}</h2>
+      {factorial}
     </div>
   );
 }

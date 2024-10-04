@@ -6,7 +6,7 @@ function Exercise5() {
   return (
     <div>
       <h1>5. Calculate the sum of numbers from 1 to 10</h1>
-      <h2>{sum}</h2>
+      {sum}
     </div>
   );
 }

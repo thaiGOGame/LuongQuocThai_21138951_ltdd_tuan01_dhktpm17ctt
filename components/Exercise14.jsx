@@ -16,7 +16,7 @@ function Exercise14() {
   return (
     <div>
       <h1>14. Print the first 10 Fibonacci numbers without recursion</h1>
-      <h2>Fibonacci Sequence: {fibonacciNumbers.join(', ')}</h2>
+     Fibonacci Sequence: {fibonacciNumbers.join(', ')}
     </div>
   );
 }

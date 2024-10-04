@@ -10,7 +10,7 @@ function Exercise7() {
   return (
     <div>
       <h1>7. Calculate the sum of even numbers greater than 10 and less than 30</h1>
-      <h2>{sum}</h2>
+      {sum}
     </div>
   );
 }

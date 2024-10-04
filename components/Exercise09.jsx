@@ -13,13 +13,11 @@ function Exercise9() {
   return (
     <div>
       <h1>9. Create a function that will convert from Fahrenheit to Celsius</h1>
-      <h2>
         {fahrenheitValues.map((fahrenheit, index) => (
           <div key={index}>
             {fahrenheit}°F = {celsiusValues[index].toFixed(2)}°C
           </div>
         ))}
-      </h2>
     </div>
   );
 }
